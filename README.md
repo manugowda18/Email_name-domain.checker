@@ -1,1 +1,2 @@
-Email_ username and domainname_checker
+_Email username and domainname checker_
+<h6>This PYTHON code prompts the user to enter their email address and then separates the email into two parts, the username and the domain, using string slicing. The index of the "@" symbol is used to separate the username and domain. The code then uses string formatting to print the username and domain. The "strip()" function is used to remove any leading or trailing spaces from the email before processing. The output is a sentence that displays the username and domain of the email entered by the use</h6>
